@@ -1,0 +1,61 @@
+
+.shoping_content {
+    .form_box{
+        .shoping_form {
+            .registration_input {
+                width: 88%;
+            }
+        }
+    }
+}
+.radioAnswer {
+    margin-right: 10px;
+    margin-top: 31px;
+    margin-bottom: 35px;
+}
+.radioAnswerFemale {
+    margin-left: 20px;
+}
+.registr_button_txt {
+    transition: 1s;
+    margin-top: 39px;
+    max-width: 167px;
+    border: 1px solid transparent;
+    background: #F16D7F;
+    font-size: 14px;
+    line-height: 17px;
+    color: #FFFFFF;
+    padding: 16px 24px;
+}
+.fa-arrow-right {
+    color: #FFFFFF;
+}
+
+.registr_button_txt:hover {
+    background: #FFFFFF;
+    border: 1px solid #F16D7F;
+    color: #F16D7F;
+}
+.registr_button_txt:hover .fa-arrow-right {
+    color: #F16D7F;
+}
+.registration_contn_right {
+    max-width: 48%;
+}
+.registration_form_txt {
+    display: block;
+    font-weight: 300;
+    font-size: 13px;
+    line-height: 16px;
+    color: #B1B1B1;
+    max-width: 88%;
+}
+.registr_text {
+    font-weight: 300;
+    font-size: 24px;
+    line-height: 29px;
+    color: #000000;
+}
+// .registr_text_check::before {
+//     content: url("/img/marker-list.png");
+// }
